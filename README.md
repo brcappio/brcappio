@@ -1,7 +1,9 @@
 ### Bruno Cappio
 
 :wave: Hi, my name is Bruno and I'm a soon to be fullstack developer.
+<br>
 :briefcase: Currently working as an developer intern at BASF.
+<br>
 :notes: I'm also musician, producer and guitar teacher in the free time.
 
 
