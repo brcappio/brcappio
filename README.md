@@ -6,18 +6,16 @@
 <br>
 :notes: I'm also musician, producer and guitar teacher in the free time.
 
-
-### My linkedin:
-[![Linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/bruno-cappio-83100a226/#gh-light-mode-only)
-[![Linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/bruno-cappio-83100a226/#gh-dark-mode-only)
-
 ### Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,azure,bash,bootstrap,git,java,nodejs,vscode)](https://skillicons.dev)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<div>
+<a href="https://github.com/brcappio">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brcappio&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=brcappio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-  <img align="left" alt="brcappio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=brcappio&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+### My socials
 
-</details>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
