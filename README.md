@@ -1,7 +1,9 @@
 ### Bruno Cappio
 
-Hi, my name is Bruno and I'm a soon to be fullstack developer.
-Currently working as an developer intern at BASF.
+:wave: Hi, my name is Bruno and I'm a soon to be fullstack developer.
+:briefcase: Currently working as an developer intern at BASF.
+:notes: I'm also musician, producer and guitar teacher in the free time.
+
 
 ### My linkedin:
 [![Linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/bruno-cappio-83100a226/#gh-light-mode-only)
