@@ -4,6 +4,8 @@
 <br>
 :briefcase: Currently working as an developer intern at BASF.
 <br>
+📚 Studying Analysis and System Development at FATEC - Guaratinguetá
+<br>
 :notes: I'm also musician, producer and guitar teacher in the free time.
 
 ### Languages and Tools
@@ -18,4 +20,4 @@
 
 ### My socials
 
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/bruno-cappio-83100a226/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
