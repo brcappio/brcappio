@@ -10,7 +10,7 @@
 
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,azure,bash,bootstrap,git,java,nodejs,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,cs,java,nodejs,postgres,docker,git)](https://skillicons.dev)
 
 <div>
 <a href="https://github.com/brcappio">
